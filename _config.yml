@@ -1,11 +1,11 @@
 # Site settings
-author: David masterson
-title: 
+author: David Masterson
+title: My programming progress
 header-img: img/home-bg.png
 email: david73180@gmail.com
-copyright_name: David masterson
+copyright_name: David Masterson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  progress report
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Shadow073180
